@@ -1,0 +1,153 @@
+@media (max-width: 45em) {
+  body {
+    background-color: #fff;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: smaller;
+  
+  }
+  .body {
+    background-color: white;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    margin-left: 8rem;
+    margin-right: 10rem;
+    padding: 20px;
+  }
+  .omelette {
+    width: 100%;
+    height: auto;
+  }
+  /*.heading-omelette {
+   /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;*/
+  
+  .paragraph-omelette {
+    font-size: x-small;
+    /*font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;*/
+    color: rgb(66, 52, 52);
+  }
+  .omelette-preparation {
+    background-color: #fdf2e9;
+    padding: 4px;
+    border-radius: 5px;
+  }
+  .prep-heading {
+    color: indigo;
+    padding-left: 0.5rem;
+  }
+  .prep-list {
+    margin-top: 4px;
+    padding-left: 2.5rem;
+  }
+  .headings {
+    color: brown;
+  }
+  .prep-list-2 {
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #ddd;
+  }
+  .list-3 {
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #ddd;
+  }
+  .one {
+    color: brown;
+    padding-bottom: 6px;
+  }
+  .two {
+    border-bottom: 1px solid #ddd;
+  }
+  .text {
+    color: brown;
+    font-weight: 400;
+    justify-content: space-between;
+  }
+  .onne {
+    padding-left: 10rem;
+  }
+  .twwo {
+    padding-left: 10.8rem;
+  }
+  .three {
+    padding-left: 10.3rem;
+  }
+  .four {
+    padding-left: 11.8rem;
+  }
+}
+
+@media (max-width: 22.5em) {
+  body {
+    background-color: #fff;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: smaller;
+  
+  }
+  .body {
+    background-color: white;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    margin-left: 8rem;
+    margin-right: 10rem;
+    padding: 20px;
+  }
+  .omelette {
+    width: 100%;
+    height: auto;
+  }
+  /*.heading-omelette {
+   /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;*/
+  
+  .paragraph-omelette {
+    font-size: x-small;
+    /*font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;*/
+    color: rgb(66, 52, 52);
+  }
+  .omelette-preparation {
+    background-color: #fdf2e9;
+    padding: 4px;
+    border-radius: 5px;
+  }
+  .prep-heading {
+    color: indigo;
+    padding-left: 0.5rem;
+  }
+  .prep-list {
+    margin-top: 4px;
+    padding-left: 2.5rem;
+  }
+  .headings {
+    color: brown;
+  }
+  .prep-list-2 {
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #ddd;
+  }
+  .list-3 {
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #ddd;
+  }
+  .one {
+    color: brown;
+    padding-bottom: 6px;
+  }
+  .two {
+    border-bottom: 1px solid #ddd;
+  }
+  .text {
+    color: brown;
+    font-weight: 400;
+    justify-content: space-between;
+  }
+  .onne {
+    padding-left: 10rem;
+  }
+  .twwo {
+    padding-left: 10.8rem;
+  }
+  .three {
+    padding-left: 10.3rem;
+  }
+  .four {
+    padding-left: 11.8rem;
+  }
+}
